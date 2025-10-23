@@ -5,4 +5,4 @@
 3. [Alert Reels](https://alertreels.com/) - P1WS - WP project. This has a lot of customized ecommerce development. Woocommerce. Includes complex filtering for product listings, and inventory update script.
 4. [Manufacturers Association of Maine](https://mainemfg.com/) - Recent work with Page One Web Solutions. This WordPress site exceeds the functionality typically included in a Page One project. It includes a paid membership area, calendar, and job board, all created through plugins that needed to be tied together with custom code.
 5. [Garmey Law](https://garmeylaw.com/) - A more standard WordPress build for a Page One client.
-6. [Windjammer Angelique](https://www.sailangelique.com/) - The Windjammer Angelique website is another WordPress build that I did for Owlsheal Solutions. It was an interesting small business build.
+6. [Windjammer Angelique](https://www.sailangelique.com/) - The Windjammer Angelique website is another WordPress build that I did for Owl's Head Solutions (now [Storykind](https://www.storykind.com/)). It was an interesting small business build.
