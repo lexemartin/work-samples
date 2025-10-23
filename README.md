@@ -1,4 +1,4 @@
-#Work Samples
+# Work Samples
 
 1. [Maine Yarn Cruise](https://www.maineyarncruise.com/) - [Page One Web Solutions](https://www.pageonewebsolutions.com/) (P1WS) - Wordpress site with mapping functionality for tours and back end membership capabilities for prizes. Most of the heavy lift of this site is on the back end, but essentially it allows the Maine Yarn Cruise manager to generate new codes for check-ins and manage prizes as time passes.
 2. [Sterling Controls](thttps://sterlingcontrols.com/) - P1WS - WP project. Rebuild. Basic functionality, but the client was very impressed with this and it was done in less than the allotted time which is always nice when things are under scope.
